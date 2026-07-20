@@ -1,35 +1,46 @@
-# Quick Start Guide for Volunteers
+# Quick Start Guide for New Volunteers
 
-## Onboarding Checklist
+Welcome to the Prosthetic Outreach Coordination project! This guide will help you get started quickly.
 
-### 1. Set Up Your Environment
-- [ ] Star the repository: https://github.com/zhub9006/prosthetic-outreach-coordination
-- [ ] Clone the repo locally
-- [ ] Create a branch for your task (`git checkout -b task/your-task-name`)
-- [ ] Join the team communication channel (Slack/Discord)
+## 1. Join the Project
+- Star the repository: [zhub9006/prosthetic-outreach-coordination](https://github.com/zhub9006/prosthetic-outreach-coordination)
+- Read through the [README](README.md) to understand our mission
+- Check out the [Issues](https://github.com/zhub9006/prosthetic-outreach-coordination/issues) to find tasks that match your skills
 
-### 2. Understand Your Role
-- **Research Volunteers**: Monitor ClinicalTrials.gov for new affordable prosthetic studies
-- **Outreach Coordinators**: Manage community engagement in Chicago, Boston, or Atlanta
-- **Logistics Volunteers**: Handle scheduling, travel, and document management
+## 2. Set Up Your Workspace
+- Clone the repo locally or use GitHub's web editor
+- Create a branch for your work: `git checkout -b your-name/task-name`
+- Follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines
 
-### 3. Key Contacts
-- **Chicago Lead**: Shirley Ryan AbilityLab (NCT04725461 contact)
-- **Boston Lead**: TBD
-- **Atlanta Lead**: TBD
+## 3. Find Your Team
+Depending on your location, join the relevant team:
+- **Chicago Team** → See Issue [#11](https://github.com/zhub9006/prosthetic-outreach-coordination/issues/11)
+- **Boston Team** → See Issue [#12](https://github.com/zhub9006/prosthetic-outreach-coordination/issues/12)
+- **Atlanta Team** → See Issue [#13](https://github.com/zhub9006/prosthetic-outreach-coordination/issues/13)
 
-### 4. First Tasks
-1. Review RESOURCES.md for clinical trial highlights
-2. Check ISSUES.md for current volunteer needs
-3. Read OUTREACH.md for meeting logistics
+## 4. Key Documents
+| Document | Purpose | Link |
+|----------|---------|------|
+| ISSUES.md | Full task board | [View](ISSUES.md) |
+| OUTREACH.md | Calendar and meeting logistics | [View](OUTREACH.md) |
+| RESOURCES.md | Clinical trial data and research | [View](RESOURCES.md) |
+| TASKS.md | Task assignments and progress | [View](TASKS.md) |
 
-## Suggested Meeting Venue in Columbus, OH
-For in-person all-hands meetings, we recommend **downtown Columbus** as the compromise location:
-- **Co-working spaces**: WeWork or Impact Hub Columbus (distant ~5 min from center)
-- **Hotels**: Hilton Columbus Downtown
-- **Community venues**: COSI (Center of Science and Industry), Columbus Metropolitan Library Main Branch
+## 5. Communication
+- Slack/Discord channels are being set up (Issue [#6](https://github.com/zhub9006/prosthetic-outreach-coordination/issues/6))
+- Weekly sync calls: Day/time TBD (check OUTREACH.md)
+- Tri-city quarterly meeting: Columbus, OH (Issue [#14](https://github.com/zhub9006/prosthetic-outreach-coordination/issues/14))
 
-## Communication Guidelines
-- Keep PRs small and focused
-- Label issues with priority (🔴 High, 🟡 Medium, 🟢 Low)
-- Update task board weekly during standups
+## 6. First Contributions
+1. Pick a task from the Issues board
+2. Comment on it to let the team know you're working on it
+3. Make your changes in a branch
+4. Submit a PR or update the issue when done
+5. Ask for a code review and merge
+
+## Need Help?
+- Open an issue describing your question
+- Reach out to your team lead
+- Check the [RESOURCES.md](RESOURCES.md) for clinical trial and research data
+
+Happy volunteering! 🦿🤝
